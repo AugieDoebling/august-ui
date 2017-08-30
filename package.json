@@ -1,0 +1,19 @@
+{
+  "name": "august-ui",
+  "theme": "ui",
+  "version": "1.0.0",
+  "description": "UI theme for the Atom editor. Soft brown color palette with yellow and coral highlights.",
+  "keywords": [
+    "ui",
+    "theme",
+    "brown",
+    "soft",
+    "augiedoebling",
+    "leather",
+  ],
+  "repository": "https://github.com/AugieDoebling/august-ui",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
