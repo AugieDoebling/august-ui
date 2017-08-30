@@ -1,16 +1,13 @@
-# August UI 
+# August UI
 
 UI theme for the Atom editor. Soft brown color palette with yellow and coral highlights. __Please__ modify, share and use! 🐻
 
-<div style="width:100%;height:50px;">
-  <div style="width:19%;height:100%;display:inline-block;background-color:#343131;"></div>
-  <div style="width:19%;height:100%;display:inline-block;background-color:#73604f;"></div>
-  <div style="width:19%;height:100%;display:inline-block;background-color:#FFD08C;"></div>
-  <div style="width:19%;height:100%;display:inline-block;background-color:#FAFAFA;"></div>
-  <div style="width:19%;height:100%;display:inline-block;background-color:#F16466;"></div>
-</div>
-<br>
+![Color Palette](http://i.imgur.com/urrH9nZ.png)
 
-<!-- asdfsadf -->
+Screenshot of settings page:
 
-<!-- ![A screenshot of your theme](http://i.imgur.com/J3JvRfc.png) -->
+![Settings](http://i.imgur.com/J3JvRfc.png)
+
+Editor with (my favorite) syntax theme [Oceanic Next](https://github.com/smlombardi/oceanic-next-syntax)
+
+![Editor](http://i.imgur.com/D6RYQTy.png)
